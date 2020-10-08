@@ -1,0 +1,70 @@
+/* h1 {
+  color: #e3c739;
+} */
+#header {
+  background-color: blue;
+}
+
+#gambar-profile {
+  width: 100px;
+}
+
+.picture {
+  width: 1000px !important;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+.font-italic {
+  font-style: italic;
+}
+
+.bigger-font {
+  font-size: 100px;
+}
+
+.title1 {
+  color: #e3c739;
+  font-size: 100px;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+.title2 {
+  color: green;
+}
+
+li {
+  font-family: "Courier New", Courier, monospace;
+}
+
+p {
+  /* color: blue; */
+}
+
+/* .a1 {
+  color: red;
+} */
+
+h1,
+.a1 {
+  color: red;
+}
+
+h1.font-blue {
+  color: cornflowerblue;
+}
+
+.parentGallery {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.divbesar {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
