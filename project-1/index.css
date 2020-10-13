@@ -1,0 +1,57 @@
+body {
+  font-family: sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+header h1 {
+  text-align: center;
+}
+
+#profile {
+  text-align: center;
+  background-color: lightgrey;
+  padding: 50px;
+}
+
+#profile img {
+  height: 300px;
+  border-radius: 50%;
+}
+
+#content {
+  text-align: center;
+  width: 55%;
+  margin: 0 auto;
+}
+
+#skills {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  width: 30%;
+  border: 1px solid #dddddd;
+}
+
+.card img {
+  width: 100%;
+}
+
+.card div {
+  padding: 20px;
+}
+
+hr {
+  margin: 10%;
+}
+
+footer {
+  text-align: center;
+  padding: 30px;
+}
+
+footer a {
+  margin: 20px;
+}

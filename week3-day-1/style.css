@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+  border: 5px solid green;
+  height: 600px;
+  /* flex-wrap: wrap; */
+  /* flex-direction: row;
+  */
+  /* flex-flow: row wrap;
+  max-height: 500px; */
+  /* justify-content: flex-start;
+  align-items: flex-end; */
+  /* align-content: space-around; */
+}
+
+.item {
+  border: 1px solid #000;
+  width: 100px;
+  height: 100px;
+  background-color: hotpink;
+  flex-basis: 400;
+}
+
+/* .item-1 {
+  flex-shrink: 1;
+}
+
+.item-2 {
+  flex-shrink: 2;
+}
+
+.item-3 {
+  flex-shrink: 3;
+}
+
+.item-4 {
+  flex-shrink: 4;
+} */
+
+/* .item-2 {
+  order: -1;
+}
+
+.item-3 {
+  order: -1 !important;
+} */
+
+/* .item-3 {
+  align-self: center;
+} */
