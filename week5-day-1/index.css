@@ -1,0 +1,9 @@
+body {
+  color: #3d727c;
+  font-family: "Montserrat";
+}
+
+.container .icon {
+  color: #65aabb !important;
+  font-weight: 800;
+}
