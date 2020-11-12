@@ -88,3 +88,9 @@ body {
 }
 
 /* Akhir about me */
+
+@media screen and (max-width: 750px) {
+  .carousel img {
+    width: 0px;
+  }
+}
