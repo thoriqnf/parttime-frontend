@@ -43,7 +43,7 @@ console.log("null1", null2);
 // console.log("tulisan undefined", nama);
 
 // tipe data objek
-const object1 = {
+const dataUser = {
   firstName: "thoriq",
   lastName: "faizal",
   age: 20,
